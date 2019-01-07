@@ -10,3 +10,4 @@ before_install:
 # Run Unit Test and Integration Tests
 script:
   - mvn verify
+
