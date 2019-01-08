@@ -16,8 +16,8 @@ before_install:
 script:
   - |
     mvn clean install sonar:sonar \
-    -Dsonar.projectKey="cporiel_sample-application-students" \
-    -Dsonar.organization="cporiel-github" \
+    -Dsonar.projectKey=cporiel_sample-application-students \
+    -Dsonar.organization=cporiel-github \
     -Dsonar.host.url=https://sonarcloud.io \
     -Dsonar.login=$SONAR_TOKEN
 
