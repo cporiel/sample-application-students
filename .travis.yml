@@ -20,7 +20,7 @@ cache:
 # - secure: "DpR1th9rZvLMX0......"
 env:
   global:
-    - secure: 48d336cb7765bbe37a31476d57b00b745a0bcca9
+    - secure: "48d336cb7765bbe37a31476d57b00b745a0bcca9"
 
 
 # The pipe (|) is useful to create multiline scripts
