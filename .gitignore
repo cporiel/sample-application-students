@@ -22,4 +22,6 @@
 /nbbuild/
 /dist/
 /nbdist/
-/.nb-gradle/
+/.nb-gradle/deploy_key
+deploy_key
+travis_deploy_rsa
